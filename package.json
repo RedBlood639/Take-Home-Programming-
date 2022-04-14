@@ -1,0 +1,25 @@
+{
+  "name": "take-home-programming-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedBlood639/Take-Home-Programming-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedBlood639/Take-Home-Programming-/issues"
+  },
+  "homepage": "https://github.com/RedBlood639/Take-Home-Programming-#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.24",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
